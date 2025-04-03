@@ -54,10 +54,5 @@ Age of acquisition (AoA) and/or age of exposure (AoE) indicate the average age a
 ---
 
 ### References
-- Dascalu et al., 2016
-- Kuperman et al., 2012
-
----
-
-#### to-do-list
-- Find/update all the references on this page. (alphabetical order)
+- Dascalu, M., McNamara, D., Crossley, S., & Trausan-Matu, S. (2016, March). Age of exposure: A model of word learning. In *Proceedings of the AAAI Conference on Artificial Intelligence* (Vol. 30, No. 1). https://doi.org/10.1609/aaai.v30i1.10372
+- Kuperman, V., Stadthagen-Gonzalez, H., & Brysbaert, M. (2012). Age-of-acquisition ratings for 30,000 English words. *Behavior research methods, 44*, 978-990. https://doi.org/10.3758/s13428-012-0210-4

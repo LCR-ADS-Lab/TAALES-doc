@@ -20,7 +20,4 @@ Not tied to a specific corpus for calculation; referenced from Balota et al., (2
 
 ### References
 
----
-
-#### to-do-list
-- Find/update all the references on this page. (alphabetical order)
+- Balota, D. A., Yap, M. J., Cortese, M. J., Hutchison, K. A., Kessler, B., Loftis, B., Neely, J. H., Nelson, D. L., Simpson, G. B., & Treiman, R. (2007). The English Lexicon Project. *Behavior Research Methods, 39*(3), 445–459. https://doi.org/10.3758/BF03193014
