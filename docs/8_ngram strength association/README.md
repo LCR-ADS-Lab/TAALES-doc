@@ -16,9 +16,9 @@ TAALES calculates five statistical association measures for bigrams and trigrams
 - **AC**: Approximate Collexeme (semantic co-occurrence)
 
 ### Corpus used
-- BNC
-- COCA
-- TOEFL11 (NNS)
+- BNC (BNC, 2007)
+- COCA (Davies, 2009_
+- TOEFL11 (NNS, Monterio et al., 2020)
 
 ### Register
 - Academic, Fiction, Magazine, News, Spoken
@@ -83,4 +83,3 @@ TAALES calculates five statistical association measures for bigrams and trigrams
 
 #### to-do-list
 - Find/update all the references on this page. (alphabetical order)
-- add what is the difference between COCA_fiction_tri_MI, COCA_fiction_tri_2_MI in the note section.
