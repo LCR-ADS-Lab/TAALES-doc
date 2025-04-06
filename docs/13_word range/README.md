@@ -5,9 +5,8 @@ sort: 13
 ## Word range
 
 ### Definition
-Word range refers to the number of texts in a corpus in which a particular word occurs. While word frequency is closely linked to language proficiency, it can be inflated by technical terms concentrated in a few documents. Word range helps mitigate this inflation and more accurately represents an individual's likely exposure to specific words.  
-Words with more limited range are generally considered more sophisticated.
-
+Word range refers to the number of texts in a corpus in which a particular word occurs. While word frequency is closely linked to language proficiency, it can be inflated by technical terms concentrated in a few documents. Word range helps mitigate this inflation and more accurately represents an individual's likely exposure to specific words.
+3
 ### Methodology
 Word range is calculated as the number of documents or categories in which a word appears, often aggregated as a mean score per word in a text. Several corpora are used to derive these indices, and transformations such as log-scaling or lemma-based calculations are applied for normalization or variant types.
 

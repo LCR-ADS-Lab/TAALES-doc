@@ -22,7 +22,7 @@ Mean, log-transformed, and proportional frequency scores are computed by compari
 - Replace `[ ]` with register (e.g., *academic*, *fiction*) and `[10k–100k]` with threshold size (e.g., 10k, 20k, ..., 100k)
 
 #### BNC
-British National Corpus (BNC) is a 100-million-word collection of samples from a wide range of written and spoken British English from the late 20th century.
+British National Corpus (BNC) is a 100-million-word collection of samples from a wide range of written and spoken British English from the late 20th century (BNC, 2007).
 
 **Raw frequency**
 - **Indices**:
@@ -40,7 +40,7 @@ British National Corpus (BNC) is a 100-million-word collection of samples from a
   - BNC_[ ]_Trigram_Proportion  
 
 #### COCA
-The Corpus of Contemporary American English (COCA) includes more than one billion words from spoken, fiction, magazine, newspaper, and academic texts, offering frequency data for a variety of registers.
+The Corpus of Contemporary American English (COCA) includes more than one billion words from spoken, fiction, magazine, newspaper, and academic texts, offering frequency data for a variety of registers (Davies, 2009).
 
 **Raw frequency**
 - **Indices**:
@@ -58,12 +58,13 @@ The Corpus of Contemporary American English (COCA) includes more than one billio
   - COCA_[ ]_tri_prop_[10k–100k]  
 
 #### TOEFL11
-The TOEFL11 Corpus is a learner corpus containing essays written by English language learners categorized by proficiency levels and L1 background.
+The TOEFL11 Corpus is a learner corpus containing essays written by English language learners categorized by proficiency levels and L1 background (Blanchard et al., 2013). The TOEFL11 L2 corpus comprises 12,000 essays, each written by a different learner taking the TOEFL iBT test. These essays were produced under timed conditions (30 minutes) for an independent writing task that mirrors first-year college writing. The corpus features responses from learners with eleven different native language backgrounds, written on eight different essay prompts. Expert raters assigned each essay a holistic score on a scale from 1.0 to 5.0, resulting in 1,201 essays rated as low proficiency, 5,964 as medium, and 3,835 as advanced. In total, the corpus contains 3,509,001 words (Monterio et al., 2020, p. 286).
 
 **Raw frequency**
 - **Indices**:
   - NNS_Raw_Bigram_Freq_[High/Med/Low/WC]_AW  
-  - NNS_Raw_Trigram_Freq_[High/Med/Low/WC]_AW  
+  - NNS_Raw_Trigram_Freq_[High/Med/Low/WC]_AW
+  - *WC* stands for "whole corpus".
 
 **Logarithmic frequency**
 - **Indices**:
@@ -82,5 +83,3 @@ The TOEFL11 Corpus is a learner corpus containing essays written by English lang
 
 #### to-do-list
 - Find/update all the references on this page. (alphabetical order)
-- Please add what `WC` means. (maybe also in range?)
-- maybe need to add information about the high/med/low for the TOEFL11 corpus?
