@@ -12,7 +12,7 @@ TAALES identifies and calculates indices related to academic language using lexi
 
 ### Corpus used
 - Academic Corpus (for AWL)
-- Four Corpora: Simpson et al., 2002; BNC, 2006; Hyland, 2004 (for AFL)
+- Four Corpora: Simpson et al., 2002; BNC, 2007; Hyland, 2004 (for AFL)
 
 ### Calculated indices
 
@@ -47,9 +47,7 @@ TAALES identifies and calculates indices related to academic language using lexi
 ---
 
 ### References
-- British National Corpus (BNC), 2006. Accessed 1 October 2007.
-- Coxhead, A. (2000). A New Academic Word List. *TESOL Quarterly, 34*(2), 213–238. https://doi.org/10.2307/3587951
+- BNC Consortium. (2007). British national corpus. *Oxford Text Archive Core Collection*.
 - Hyland, K. (2004). Disciplinary discourses, *Michigan classics ed.: Social interactions in academic writing*. University of Michigan Press.  
-- Kyle, K., Crossley, S. A., & Berger, C. (2018). The Tool for the Analysis of Lexical Sophistication (TAALES): Version 2.0. *Behavior Research Methods, 50*(3), 1030–1046. https://doi.org/10.3758/s13428-017-0924-4
 - Simpson-Vlach, R., & Ellis, N. C. (2010). An academic formulas list: New methods in phraseology research. *Applied Linguistics, 31*(4), 487–512. https://doi.org/10.1093/applin/amp058
 - Simpson, R. C., Briggs, S. L., Ovens, J., & Swales, J. M. (2002). The Michigan corpus of academic spoken English. *Ann Arbor, MI: The Regents of the University of Michigan*.

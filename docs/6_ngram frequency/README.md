@@ -74,12 +74,7 @@ The TOEFL11 Corpus is a learner corpus containing essays written by English lang
 ---
 
 ### References
-- Davies, 2009
-- BNC Consortium, 2007
-- Blanchard et al. (2013)
-- Monteiro et al. (2020)
-
----
-
-#### to-do-list
-- Find/update all the references on this page. (alphabetical order)
+- Blanchard, D., Tetreault, J., Higgins, D., Cahill, A., & Chodorow, M. (2013). TOEFL11: A corpus of non‐native English. *ETS Research Report Series, 2013*(2), i-15. https://doi.org/10.1002/j.2333-8504.2013.tb02331.x
+- BNC Consortium. (2007). British national corpus. *Oxford Text Archive Core Collection*.
+- Davies, M. (2009). The 385+ million word Corpus of Contemporary American English (1990–2008+): Design, architecture, and linguistic insights. *International journal of corpus linguistics, 14*(2), 159-190. https://doi.org/10.1075/ijcl.14.2.02dav
+- Monteiro, K. R., Crossley, S. A., & Kyle, K. (2020). In search of new benchmarks: Using L2 lexical frequency and contextual diversity indices to assess second language writing. *Applied Linguistics, 41*(2), 280-300. https://doi.org/10.1093/applin/amy056

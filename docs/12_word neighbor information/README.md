@@ -47,11 +47,4 @@ Phonographic neighborhood refers to words that are both orthographic and phonolo
 ---
 
 ### References
-- Balota et al., 2007
-- Yarkoni et al., 2008
-- Lund & Burgess, 1996
-
----
-
-#### to-do-list
-- Find/update all the references on this page. (alphabetical order)
+- Peereman, R., & Content, A. (1997). Orthographic and phonological neighborhoods in naming: Not all neighbors are equally influential in orthographic space. Journal of Memory and language, 37(3), 382-410. https://doi.org/10.1006/jmla.1997.2516

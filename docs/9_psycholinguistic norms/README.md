@@ -12,7 +12,7 @@ TAALES computes psycholinguistic scores by averaging normed ratings per word fro
 
 ### Corpus used
 - MRC Psycholinguistic Database (Coltheart, 1981)
-- Brysbaert Concreteness Norms (Brysbaert et al., 2013)
+- Brysbaert Concreteness Norms (Brysbaert et al., 2014)
 
 ### Calculated indices
 
@@ -50,9 +50,5 @@ TAALES computes psycholinguistic scores by averaging normed ratings per word fro
 ---
 
 ### References
-- 
-
----
-
-#### to-do-list
-- Find/update all the references on this page. (alphabetical order)
+- Brysbaert, M., Warriner, A. B., & Kuperman, V. (2014). Concreteness ratings for 40 thousand generally known English word lemmas. *Behavior research methods, 46*, 904-911. https://doi.org/10.3758/s13428-013-0403-5
+- Coltheart, M. (1981). The MRC psycholinguistic database. The Quarterly Journal of Experimental Psychology Section A, 33(4), 497-505. https://doi.org/10.1080/14640748108400805

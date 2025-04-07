@@ -57,10 +57,8 @@ TAALES calculates semantic network indices using path-based measures in WordNet.
 ---
 
 ### References:
-- Fellbaum, 1998
-
+- Fellbaum, C. (Ed.). (1998). *WordNet: An electronic lexical database*. MIT press.
 ---
 
 #### to-do-list
-- Find/update all the references on this page. (alphabetical order)
 - Please check the notes whether it is correct information.

@@ -17,7 +17,7 @@ TAALES calculates five statistical association measures for bigrams and trigrams
 
 ### Corpus used
 - BNC (BNC, 2007)
-- COCA (Davies, 2009_
+- COCA (Davies, 2009)
 - TOEFL11 (NNS, Monterio et al., 2020)
 
 ### Register
@@ -77,9 +77,6 @@ TAALES calculates five statistical association measures for bigrams and trigrams
 ---
 
 ### References
-- Davis..
-
----
-
-#### to-do-list
-- Find/update all the references on this page. (alphabetical order)
+- BNC Consortium. (2007). British national corpus. *Oxford Text Archive Core Collection*.
+- Davies, M. (2009). The 385+ million word Corpus of Contemporary American English (1990–2008+): Design, architecture, and linguistic insights. *International journal of corpus linguistics, 14*(2), 159-190. https://doi.org/10.1075/ijcl.14.2.02dav
+- Monteiro, K. R., Crossley, S. A., & Kyle, K. (2020). In search of new benchmarks: Using L2 lexical frequency and contextual diversity indices to assess second language writing. *Applied Linguistics, 41*(2), 280-300. https://doi.org/10.1093/applin/amy056

@@ -38,9 +38,5 @@ Word naming response time refers to the time taken to begin pronouncing a word a
 ---
 
 ### References
-- Balota et al., 2007
-- Berger et al., 2017
----
-
-#### to-do-list
-- Find/update all the references on this page. (alphabetical order)
+- Balota, D. A., Yap, M. J., Hutchison, K. A., Cortese, M. J., Kessler, B., Loftis, B., ... & Treiman, R. (2007). The English lexicon project. *Behavior research methods, 39*, 445-459. https://doi.org/10.3758/BF03193014
+- Berger, C. M., Crossley, S. A., & Kyle, K. (2017). Using novel word context measures to predict human ratings of lexical proficiency. *Journal of Educational Technology & Society, 20*(2), 201-212.
