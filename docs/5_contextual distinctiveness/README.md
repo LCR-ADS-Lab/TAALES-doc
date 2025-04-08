@@ -61,10 +61,7 @@ Several approaches are used to capture contextual distinctiveness:
 ---
 
 ### References
-- Bumage, G., & Dunlop, D. (1992). Encoding the british national corpus. *English language corpora: Design, analysis and exploitation*, 79-95.
-- Dascalu, M., Popescu, E., Becheru, A., Crossley, S., & Trausan-Matu, S. (2016). Predicting academic performance based on students’ blog and microblog posts. In *Adaptive and Adaptable Learning: 11th European Conference on Technology Enhanced Learning, EC-TEL 2016, Lyon, France, September 13-16, 2016, Proceedings 11* (pp. 370-376). Springer International Publishing. https://doi.org/10.1007/978-3-319-45153-4_29
-- Hoffman, P., Lambon Ralph, M. A., & Rogers, T. T. (2013). Semantic diversity: A measure of semantic ambiguity based on variability in the contextual usage of words. *Behavior research methods, 45*, 718-730. https://doi.org/10.3758/s13428-012-0278-x
+- BNC Consortium. (2007). British national corpus. *Oxford Text Archive Core Collection*.
 - Kiss, G. R. (1973). Grammatical word classes: A learning process and its simulation. In *Psychology of learning and motivation* (Vol. 7, pp. 1-41). Academic Press. https://doi.org/10.1016/S0079-7421(08)60064-X
 - Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. *Discourse processes, 25*(2-3), 259-284. https://doi.org/10.1080/01638539809545028
-- McDonald, S. A., & Shillcock, R. C. (2001). Rethinking the Word Frequency Effect: The Neglected Role of Distributional Information in Lexical Processing. *Language and Speech, 44*(3), 295-322. https://doi.org/10.1177/00238309010440030101
 - Nelson, D. L., McEvoy, C. L., & Schreiber, T. A. (2004). The University of South Florida free association, rhyme, and word fragment norms. *Behavior Research Methods, Instruments, & Computers, 36*(3), 402-407. https://doi.org/10.3758/BF03195588
