@@ -145,5 +145,5 @@ The TOEFL11 Corpus is a learner corpus containing essays written by English lang
 ---
 
 #### to-do-list
-- Find/update all the references on this page. (alphabetical order)
+- Find/update all the references on this page. (alphabetical order) >>> Zeinab: please check this!
 - Can you double check whether TP refers to top proportion or type frequency?
