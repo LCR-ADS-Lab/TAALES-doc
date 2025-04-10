@@ -62,6 +62,7 @@ Several approaches are used to capture contextual distinctiveness:
 ---
 
 ### References
+- Berger, C., Crossley, S. & Kyle, K. (2017). Using Native-Speaker Psycholinguistic Norms to Predict Lexical Proficiency and Development in Second-Language Production. *Applied Linguistics*, 40(1), 22–42. https://doi.org/10.1093/applin/amx005
 - BNC Consortium. (2007). British national corpus. *Oxford Text Archive Core Collection*.
 - Hoffman, P., Lambon Ralph, M.A. & Rogers, T.T. (2013). Semantic diversity: A measure of semantic ambiguity based on variability in the contextual usage of words. *Behav Res* 45, 718–730. https://doi.org/10.3758/s13428-012-0278-x
 - Kiss, G. R. (1973). Grammatical word classes: A learning process and its simulation. In *Psychology of learning and motivation* (Vol. 7, pp. 1-41). Academic Press. https://doi.org/10.1016/S0079-7421(08)60064-X
