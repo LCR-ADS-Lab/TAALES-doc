@@ -5,17 +5,18 @@ sort: 5
 ## Contextual distinctiveness
 
 ### Definition
-Contextual distinctiveness refers to how many different psychological, lexical, or semantic contexts a word typically appears in. Words that are more contextually distinct—appearing in fewer, more specific contexts—are often considered more difficult or advanced.
+Contextual distinctiveness refers to how many different psychological, lexical, or semantic contexts a word typically appears in. Words that are more contextually distinct—appearing in fewer, more specific contexts—are often considered more difficult or advanced (Berger et al., 2017).
 
 ### Methodology
 Several approaches are used to capture contextual distinctiveness:
-- Variety of responses to a word in free association
-- Number of different stimuli that elicit a word in free association
-- Probability of co-occurrence with frequent words in a narrow window
-- Semantic variability across contextual environments in large corpora
+- EAT: Variety of responses to a word in free association (Kiss et al., 1973)
+- USF: Number of different stimuli that elicit a word in free association (Nelson, McEvoy, & Schreiber, 1998)
+- McD: Probability of co-occurrence with frequent words in a narrow window (McDonald & Shillcock, 2001)
+- Sem_D: Semantic variability across contextual environments in large corpora (Hoffman, Ralph, & Rogers, 2013)
+- LSA: Hidden (latent) semantic structures beyond keywords (Laundauer et al., 2014)
 
 ### Corpus used
-- EAT (Edinburgh Associative Thesaurus), written
+- EAT (Edinburgh Associative Thesaurus), written 
 - USF Free Association Norms, written
 - BNC (British National Corpus), written & spoken
 - TASA (Touchstone Applied Sciences Associates), written
@@ -62,6 +63,8 @@ Several approaches are used to capture contextual distinctiveness:
 
 ### References
 - BNC Consortium. (2007). British national corpus. *Oxford Text Archive Core Collection*.
+- Hoffman, P., Lambon Ralph, M.A. & Rogers, T.T. (2013). Semantic diversity: A measure of semantic ambiguity based on variability in the contextual usage of words. *Behav Res* 45, 718–730. https://doi.org/10.3758/s13428-012-0278-x
 - Kiss, G. R. (1973). Grammatical word classes: A learning process and its simulation. In *Psychology of learning and motivation* (Vol. 7, pp. 1-41). Academic Press. https://doi.org/10.1016/S0079-7421(08)60064-X
 - Landauer, T. K., Foltz, P. W., & Laham, D. (1998). An introduction to latent semantic analysis. *Discourse processes, 25*(2-3), 259-284. https://doi.org/10.1080/01638539809545028
+- McDonald, S. A., & Shillcock, R. C. (2001). Rethinking the Word Frequency Effect: The Neglected Role of Distributional Information in Lexical Processing. *Language and Speech*, 44(3), 295-322. https://doi.org/10.1177/00238309010440030101
 - Nelson, D. L., McEvoy, C. L., & Schreiber, T. A. (2004). The University of South Florida free association, rhyme, and word fragment norms. *Behavior Research Methods, Instruments, & Computers, 36*(3), 402-407. https://doi.org/10.3758/BF03195588
