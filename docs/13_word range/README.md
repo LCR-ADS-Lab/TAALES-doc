@@ -140,7 +140,11 @@ The TOEFL11 Corpus is a learner corpus containing essays written by English lang
 ---
 
 ### References
-- 
+- BNC Consortium. (2007). British national corpus. *Oxford Text Archive Core Collection*.
+- Davies, M. (2009). The 385+ million word Corpus of Contemporary American English (1990–2008+): Design, architecture, and linguistic insights. *International journal of corpus linguistics*, 14(2), 159-190. https://doi.org/10.1075/ijcl.14.2.02dav
+- Kučera, H., Francis, W., Twaddell, W. F., Marckworth, M. L., Bell, L. M., & Carroll, J. B. (1967). Computational analysis of present-day American English. *Brown University Press*.
+
+
 
 ---
 
