@@ -159,7 +159,11 @@ SUBTLEXus is a subtitle-based corpus capturing word usage in spoken American Eng
   - SUBTLEXus_Freq_FW_Log
 
 #### TOEFL11
-The TOEFL11 Corpus is a learner corpus containing essays written by English language learners categorized by proficiency levels and L1 background.
+The TOEFL11 Corpus is a learner corpus containing essays written by English language learners categorized by proficiency levels and L1 background. WC stands for Whole Corpus, which means it includes essays from all proficiency levels. In this Corpus, learner essays are grouped into High, Medium, and Low proficiency levels, which are based on the average of two human-assigned scores (each on a 5-point scale): High: average score of 4.0 or higher, Medium: average score between 3.0 and 3.9, Low: average score below 3.0.
+
+
+
+
 
 **Raw frequency**
 - **Indices**:
