@@ -2,7 +2,7 @@
 # Tool for the Automatic Analysis of Lexical Sophistication (TAALES)
 
 - TAALES is a tool that measures over 400 classic and new indices of lexical sophistication, and includes indices related to a wide range of sub-constructs. TAALES indices have been used to inform models of second language (L2) speaking proficiency, first language (L1) and L2 writing proficiency, spoken and written lexical proficiency, genre differences, and satirical language. The tool was developed by <a href="https://kristopherkyle.github.io/professional-webpage/" class="tag" target="_blank">Kristopher Kyle</a>.
-- This page was contributed by Karla Csuros, Zeinab Rahimi, and Hakyung Sung (listed in alphabetical order) from the <a href="https://lcr-ads-lab.github.io/LCR-ADS-Home/" class="tag" target="_blank">LCR-ADS lab</a> at the University of Oregon. When constructing this documentation page, we carefully followed the original index description spreadsheet, which you can find on the <a href="https://www.linguisticanalysistools.org/taales.html" class="tag" target="_blank">official webpage</a>.
+- This page was contributed by Karla Csuros, Jacob Dirkx, Zeinab Rahimi, and Hakyung Sung (listed in alphabetical order) from the <a href="https://lcr-ads-lab.github.io/LCR-ADS-Home/" class="tag" target="_blank">LCR-ADS lab</a> at the University of Oregon. When constructing this documentation page, we carefully followed the original index description spreadsheet, which you can find on the <a href="https://www.linguisticanalysistools.org/taales.html" class="tag" target="_blank">official webpage</a>.
 
 # How to read the documentation
 
