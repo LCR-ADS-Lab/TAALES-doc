@@ -143,10 +143,3 @@ The TOEFL11 Corpus is a learner corpus containing essays written by English lang
 - Eguchi, M., & Kyle, K. (2020). Continuing to explore the multidimensional nature of lexical sophistication: The case of oral proficiency interviews. *The Modern Language Journal, 104*(2), 381-400.
 - Kyle, K., & Crossley, S. A. (2015). Automatically assessing lexical sophistication: Indices, tools, findings, and application. *Tesol Quarterly, 49*(4), 757-786.
 
-
-
----
-
-#### to-do-list
-- Find/update all the references on this page. (alphabetical order) >>> Zeinab: please check this!
-- Can you double check whether TP refers to top proportion or type frequency?
